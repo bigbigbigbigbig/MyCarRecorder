@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/shou_off" android:state_focused="true" android:state_enabled="true" android:state_pressed="false" ></item> //焦点
+    <item android:drawable="@drawable/shou_on" android:state_enabled="true" android:state_checked="true" ></item>
+    <item android:drawable="@drawable/shou_on" android:state_enabled="true" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/shou_off"></item> //默认状态
+</selector>

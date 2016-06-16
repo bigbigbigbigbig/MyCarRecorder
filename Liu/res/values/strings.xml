@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">多功能行车记录仪</string>
+    <string name="videorecord">录制 </string>
+    <string name="videolist">播放</string>
+    <string name="came">拍照</string>
+    <string name="btnlight">照明</string>
+    <string name="position">定位</string>
+     <string name="vibrate">震动</string>
+    <string name="calendar">日历</string>
+    <string name="teach">教程</string>
+    <string name="info">信息</string>
+    <string name="set">设置</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="togglebutton_off">关</string>
+    <string name="togglebutton_on">开</string>
+    <string name="retu">返回</string>
+    <string name="btn_position">定位</string>
+    <string name="text_lz">录制视频：点击录制按钮，进入界面，点击按钮开始录制</string>
+    <string name="text_bf">播放视频：点击播放按钮，进入列表，单击开始播放</string>
+    <string name="text_pz">拍照：点击拍照按钮，进入拍照功能界面，单击按钮拍照</string>
+    <string name="text_sd">照明：点击按钮，进入照明功能界面</string>
+    <string name="text_dw">定位：点击定位按钮，显示百度地图和当前位置</string>
+    <string name="text_rl">日历：点击日历按钮，显示当前手机日期</string>
+    <string name="text_jc">教程：点击教程按钮，显示各功能教程</string>
+    <string name="text_tc">退出：点击退出按钮，弹出对话框（按手机返回键效果相同）</string>
+    <string name="text_info">手机信息：点击按钮弹出手机配置信息</string>
+    <string name="text_set">设置：点击按钮设置相关参数</string>
+    <string name="text_about">关于：点击按钮显示软件信息</string>
+    <string name="text_move">震动检测：点击按钮检测震动。任何方向震动幅度超过15便会发出强烈震动警告。</string>
+    <string name="list">视频列表</string>
+    <string name="stop">停止</string>
+    <string name="time">时间</string>
+    <string name="videoname">视频名称</string>
+    <string name="softwareinfo">软件版本：1.0\n功能更新：录制、拍照、播放、照明、定位、震动检测、日期查看、教程、配置查看、设置、退出。\n存在问题：1、定位功能不精确；2、视频录制存在bug；3、未实现记事本和通讯录功能\n发布日期：2016.06.03</string>
+</resources>
